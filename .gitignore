@@ -1,0 +1,6 @@
+.svn
+*.DS_Store
+*.pdf
+bin
+out
+*.metadata*
